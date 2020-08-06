@@ -1,3 +1,6 @@
 [submodule "WebProffy"]
 	path = WebProffy
 	url = https://github.com/jairosl/WebProffy
+[submodule "MobileProffy"]
+	path = MobileProffy
+	url = https://github.com/jairosl/MobileProffy
